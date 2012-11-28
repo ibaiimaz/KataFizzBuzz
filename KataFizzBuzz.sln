@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataFizzBuzz", "KataFizzBuzz\KataFizzBuzz.csproj", "{F1973987-6685-415D-89FD-701664A7C077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataFizzBuzzTests", "KataFizzBuzzTests\KataFizzBuzzTests.csproj", "{57E63DD9-0346-4495-B8D7-F0981BA109CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1973987-6685-415D-89FD-701664A7C077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1973987-6685-415D-89FD-701664A7C077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1973987-6685-415D-89FD-701664A7C077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1973987-6685-415D-89FD-701664A7C077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E63DD9-0346-4495-B8D7-F0981BA109CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E63DD9-0346-4495-B8D7-F0981BA109CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E63DD9-0346-4495-B8D7-F0981BA109CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E63DD9-0346-4495-B8D7-F0981BA109CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
